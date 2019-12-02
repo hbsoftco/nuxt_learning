@@ -1,5 +1,5 @@
 <template>
-  <div class="container mt-5">
+  <div>
     <b-input-group size="sm" class="mb-3" prepend="Type user id">
       <b-form-input v-model="id"></b-form-input>
       <b-input-group-append>
